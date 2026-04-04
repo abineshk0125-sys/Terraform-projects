@@ -38,6 +38,4 @@ terraform apply
 * State stored in S3
 * Locking handled via DynamoDB
 =======
-# Terraform-projects
-Terraform end to end projects
->>>>>>> 1a237d04d9192f2a07fe39c8ef2e7f1cccade3e7
+
